@@ -5,6 +5,8 @@ Welcome! This page gives an overview of my most recent and relevant projects. Si
 - Used pandas to structure and manipulate data
 - Created gif using seaborn
 
+<img src="/images/gapminder_income_co2.gif" width="400" height="400">
+
 ## Project 2: ...
 - x
 - x
