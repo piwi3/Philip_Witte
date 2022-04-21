@@ -5,7 +5,7 @@ Welcome! This page gives an overview of my most recent and relevant projects. Si
 - Used pandas to structure and manipulate data
 - Created gif using seaborn
 
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/gapminder_income_co2.gif?raw=true" width="300">
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/gapminder_income_co2.gif?raw=true" width="400">
 
 ## Project 2: ...
 - x
