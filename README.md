@@ -1,4 +1,4 @@
-__Welcome!__ This page gives an __overview of my most recent and relevant projects__. Since I am in the middle of a data science bootcamp, this is still highly __work in progress__. I will clean up the code and add more projects over the upcoming weeks/months.
+__Welcome!__ This page gives an __overview of my most recent and relevant projects__. Since I am in the middle of a data science bootcamp, this is still highly __work in progress__. I will further clean up the code and add more projects over the upcoming weeks/months.
 
 ## [Project 1: Gifs of CO2 vs. income over time based on gapminder data](https://github.com/piwi3/gap_minder_gif)
 - Collected data from [gapminder](https://www.gapminder.org/data/) project
