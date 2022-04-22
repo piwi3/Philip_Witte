@@ -5,7 +5,8 @@ __Welcome!__ This page gives an __overview of my most recent and relevant projec
 - Used pandas to structure and manipulate data
 - Created gif using seaborn
 
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/gapminder_income_co2.gif?raw=true" width="400">
+<img src="https://github.com/piwi3/gap_minder_gif/blob/main/images/gapminder_income_co2.gif" width="400"><br/>
+_Figure 1: CO2 vs. income over time (gapminder data)_<br/>
 
 ## 2: Classification of survival on the titanic
 - Titanic data set from Kaggle is used for this project
@@ -18,5 +19,5 @@ __Welcome!__ This page gives an __overview of my most recent and relevant projec
     + evaluation using different KPIS (cross-validation)
 - All created classifiers are compared and the best one is further tuned by optimizing thresholds for classification  
 
-_Main KPIs for implemented ML classifiers_<br/>
-<img src="https://github.com/piwi3/classification_with_titanic_data/blob/main/images/overview_ml_kpis_1.png" width="400">
+<img src="https://github.com/piwi3/classification_with_titanic_data/blob/main/images/overview_ml_kpis_1.png" width="600"><br/>
+_Figure 2: Main KPIs for implemented ML classifiers_
