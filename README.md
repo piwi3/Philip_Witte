@@ -31,7 +31,7 @@ _Figure 2: Main KPIs for implemented ML classifiers_
 - bullet 2
 - bulelt 3
 
-## 6: Sentiment analysis of twitter tweets via dockerized pipeline]
+## 6: Sentiment analysis of twitter tweets via dockerized pipeline
 - bullet 1
 - bullet 2
 - bulelt 3
