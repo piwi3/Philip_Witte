@@ -8,7 +8,7 @@ __Welcome!__ This page gives an __overview of my most recent and relevant projec
 <img src="https://github.com/piwi3/gap_minder_gif/blob/main/images/gapminder_income_co2.gif" width="400"><br/>
 _Figure 1: CO2 vs. income over time (gapminder data)_<br/>
 
-## 2: Classification of survival on the titanic
+## [2: Classification of survival on the titanic](https://github.com/piwi3/classification_with_titanic_data)
 - Titanic data set from Kaggle is used for this project
 - Several ML classifiers are built with sckit-learn (logistic regression, decision trees, random forest, grouped/ensemble classifier)
 - Project comprises all phases of ML work flow: 
