@@ -19,5 +19,5 @@ _Figure 1: CO2 vs. income over time (gapminder data)_<br/>
     + evaluation using different KPIS (cross-validation)
 - All created classifiers are compared and the best one is further tuned by optimizing thresholds for classification  
 
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/overview_ml_kpis_1.png" width="600"><br/>
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/overview_ml_kpis_1.png?raw=true" width="600"><br/>
 _Figure 2: Main KPIs for implemented ML classifiers_
