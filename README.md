@@ -35,7 +35,10 @@ _Figure 3: Predicted vs. true target values for random forest model (separate mo
 - bullet 2
 - bulelt 3
 
-## 6: Sentiment analysis of twitter tweets via dockerized pipeline
+## [6: Sentiment analysis of twitter tweets via dockerized pipeline](https://github.com/piwi3/dockerized_twitter_app)
 - bullet 1
 - bullet 2
 - bulelt 3
+
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/twitter_sentiment_app.png?raw=true" width="600"><br/>
+_Figure 6: Frontend of my twitter sentiment app (created with streamlit)_
