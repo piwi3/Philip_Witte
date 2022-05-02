@@ -13,7 +13,7 @@ _Figure 1: CO2 vs. income over time (gapminder data)_<br/>
 - Built several ML classifiers with sckit-learn (logistic regression, decision trees, support vector machine, random forest, voting classifier)
 - Project comprises all phases of ML work flow (e.g., data exploration, feature engineering (incl. pipelines), optimization of hyperparameters, evaluation via cross-validation) and the best classifier is further tuned by optimizing predictions thresholds.  
 
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/overview_ml_kpis_1.png?raw=true" width="400"><br/>
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/overview_ml_kpis_1.png?raw=true" width="500"><br/>
 _Figure 2: Main KPIs for implemented ML classifiers_
 
 ## [3: Prediction of bike rentals using ML regression models](https://github.com/piwi3/prediction_of_bike_rentals)
