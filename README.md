@@ -21,7 +21,7 @@ _Figure 2: Main KPIs for implemented ML classifiers_
 - bullet 2
 - bulelt 3
 
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/rdf_2_model_approach.png?raw=true" width="600"><br/>
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/rdf_2_model_approach.png?raw=true" width="450"><br/>
 _Figure 3: Predicted vs. true target values for random forest model (separate models for registered vs. casual customers)_
 
 
