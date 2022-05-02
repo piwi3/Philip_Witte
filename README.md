@@ -48,4 +48,7 @@ _Figure 6: Frontend of my twitter sentiment app (created with streamlit)_
 - bullet 2
 - bulelt 3
 
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/prediction_2019.png?raw=true" width="600"><br/>
+_Figure 7: In-sample prediction of temperature for Berlin via manually built model using linear regression for 2019_
+
 
