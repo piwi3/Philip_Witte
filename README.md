@@ -42,3 +42,10 @@ _Figure 3: Predicted vs. true target values for random forest model (separate mo
 
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/twitter_sentiment_app.png?raw=true" width="600"><br/>
 _Figure 6: Frontend of my twitter sentiment app (created with streamlit)_
+
+## [7: Time series analysis of temperature data](https://github.com/piwi3/timeseries_analysis_temperature)
+- bullet 1
+- bullet 2
+- bulelt 3
+
+
