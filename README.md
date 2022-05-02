@@ -30,7 +30,7 @@ _Figure 3: Predicted vs. true target values for random forest model (separate mo
 - bullet 2
 - bulelt 3
 
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/the_rolling_stones_wrdcld.png?raw=true" width="400"><br/>
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/the_rolling_stones_wrdcld.png?raw=true" width="500"><br/>
 _Figure 4: Tongue shaped word cloud of 100 most used words in lyrics for 'The Rolling Stones'_
 
 ## [5: Metabase dashboard from a postgreSQL DB using AWS (RDS/EC2)](https://github.com/piwi3/psql_and_dashboard_aws)
