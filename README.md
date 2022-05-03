@@ -1,31 +1,31 @@
 __Welcome!__ This page gives an __overview of my most recent and relevant projects__. Since I am in the middle of a data science bootcamp, this is still highly __work in progress__. I will further clean up the code and add more projects over the upcoming weeks/months.
 
-## [1: Gifs of CO2 vs. income over time based on gapminder data](https://github.com/piwi3/gap_minder_gif)
-- Collected data from [gapminder](https://www.gapminder.org/data/) project
-- Used pandas to structure and manipulate data
-- Created gif using seaborn
+## [1: Visualization of gapminder data through GIFs](https://github.com/piwi3/gap_minder_gif)
+- Downloaded data from [gapminder](https://www.gapminder.org/data/) project (cool video re. gapminder [here](https://www.youtube.com/watch?v=jbkSRLYSojo&t=1s))
+- Used pandas to structure and manipulate data (e.g., cumulating CO2 emissions per country over years)
+- Visualized data through creation of GIFs using seaborn
 
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/gapminder_income_co2.gif?raw=true" width="400"><br/>
 _Figure 1: CO2 vs. income over time (gapminder data)_<br/>
 
 ## [2: Prediction of survival on the titanic using ML classification models](https://github.com/piwi3/classification_with_titanic_data)
-- Titanic data set from Kaggle is used for this project
-- Built several ML classifiers with sckit-learn (logistic regression, decision trees, support vector machine, random forest, voting classifier)
-- Project comprises all phases of ML work flow (e.g., data exploration, feature engineering (incl. pipelines), optimization of hyperparameters, evaluation via cross-validation) and the best classifier is further tuned by optimizing predictions thresholds.  
+- Used Titanic data set from Kaggle to  built and compare a variety of ML classifiers with sckit-learn (logistic regression, decision trees, support vector machine, random forest, voting classifier), in order to predict survival of passengers on the titanic
+- Project comprised all phases of ML work flow (e.g., train-test-splitting the data, data exploration, feature engineering (incl. pipelines), optimization of hyperparameters, evaluation via cross-validation) 
+- Best classifier (voting classifier) is further tuned by optimizing predictions thresholds  
 
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/overview_ml_kpis_1.png?raw=true" width="500"><br/>
 _Figure 2: Main KPIs for implemented ML classifiers_
 
 ## [3: Prediction of bike rentals using ML regression models](https://github.com/piwi3/prediction_of_bike_rentals)
-- bullet 1
-- bullet 2
-- bulelt 3
+- Build and trained regression models with sckit-learn on the Capital Bike Share (Washington, D.C.) Kaggle data set, in order to predict demand for bicycle rentals at any given hour, based on time and weather
+- Project comprised all phases of ML work flow  (e.g., train-test-splitting the data, exploratory data analysis, iteratively optimizing the models by expanding or selecting features (using pipelines), regularizing models to avoid overfitting, evaluating models for train and test data based on RMSLE)
+- Further tried to optimized models by, e.g., modeling bike shares for registered and casual bike shares separately 
 
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/rdf_2_model_approach.png?raw=true" width="450"><br/>
 _Figure 3: Predicted vs. true target values for random forest model (separate models for registered vs. casual customers)_
 
 
-## [4: Natural language processing with webscraped lyrics](https://github.com/piwi3/nlp_for_lyrics)
+## [4: Natural language processing of webscraped lyrics](https://github.com/piwi3/nlp_for_lyrics)
 - bullet 1
 - bullet 2
 - bulelt 3
