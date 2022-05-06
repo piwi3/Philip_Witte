@@ -46,7 +46,7 @@ _Figure 4: Tongue shaped word cloud of 100 most used words in lyrics for 'The Ro
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/twitter_sentiment_app.png?raw=true" width="600"><br/>
 _Figure 6: Frontend of my twitter sentiment app (created with streamlit)_
 
-## [7: Time series analysis of temperature data](https://github.com/piwi3/timeseries_analysis_temperature)
+## [7: Time series analysis of temperature data](https://github.com/piwi3/supermarket_simulation)
 - bullet 1
 - bullet 2
 - bulelt 3
@@ -54,4 +54,11 @@ _Figure 6: Frontend of my twitter sentiment app (created with streamlit)_
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/prediction_2019.png?raw=true" width="450"><br/>
 _Figure 7: In-sample prediction of temperature for Berlin via manually built model using linear regression for 2019_
 
+## [8: Visualization of customer behavior in a supermarket with pygame and Markov chains](https://github.com/piwi3/timeseries_analysis_temperature)
+- bullet 1
+- bullet 2
+- bulelt 3
+
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/pygame_supermarket_simulation.gif?raw=true" width="450"><br/>
+_Figure 8: A few seconds of the built supermarket simulation/visualization in pygame_
 
