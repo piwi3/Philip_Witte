@@ -1,6 +1,6 @@
 __Welcome!__ This page gives an __overview of my most recent and relevant projects__. Since I am in the middle of a data science bootcamp, this is still highly __work in progress__. I will further clean up the code and add more projects over the upcoming weeks/months.
 
-## [1: Simulation of customer movement in a supermarket with pygame & Markov chains](https://github.com/piwi3/timeseries_analysis_temperature)
+## [1: Simulation of customer movement in a supermarket w/ pygame & Markov chains](https://github.com/piwi3/timeseries_analysis_temperature)
 - Used __data of customer movement__ in a supermarket (timestamp, customer_no, lcoation) to derive a __transition matrix__, with probabilities for customers moving from one location to another (i.e. dairy, spices, fruit, drinks).
 - Project had __strong OOP focus__, e.g., defined __customer and supermarket classes__ to conduct a (first) __"Markov Chain Monte Carlo"__-simulation (MCMC)
 - Leveraged __pygame to visualize MCMC__ (inspired by this [great tutorial](https://www.youtube.com/watch?v=JtiK0DOeI4A&t=1512s)) - for this, further detailed the customer and supermarket classes (using class inheritance) and __added spot and grid classes to control visual elements in pygame__
