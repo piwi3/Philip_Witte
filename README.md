@@ -20,9 +20,9 @@ _Figure 2: A few seconds of the built supermarket simulation/visualization in py
     
     
 ## [3: Sentiment analysis of twitter tweets via dockerized pipeline](https://github.com/piwi3/dockerized_twitter_app)
-- bullet 1
-- bullet 2
-- bulelt 3
+- Leveraged __Tweepy__ and the __Twitter developer API__ to download tweets from twitter via __customized querries__ (e.g., tweet mentions user x, timeline of user y until date z, discard retweets etc.)
+- Built a __data pipeline__ using __docker__ (more precisely __docker-compose__), i.e., stored all tweets in __Mongo DB__, created an __ETL job__ (data cleaning, preparation) transferring the data to __PostgreSQL__, ran a __sentiment analysis__ leveraging [Vader](https://github.com/cjhutto/vaderSentiment)  
+- Finally built a small webpage with __streamlit__ to __display the results__ of a querry in realtime (also dockerized)
 
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/twitter_sentiment_app.png?raw=true" width="600"><br/>
 _Figure 3: Frontend of my twitter sentiment app (created with streamlit)_
