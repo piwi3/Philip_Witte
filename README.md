@@ -61,7 +61,7 @@ _Figure 6: Tongue shaped word cloud of 100 most used words in lyrics for 'The Ro
 - bulelt 3
 
 
-## [8: Time series analysis of temperature data](https://github.com/piwi3/supermarket_simulation)
+## [8: Time series analysis of temperature data](https://github.com/piwi3/timeseries_analysis_temperature)
 - bullet 1
 - bullet 2
 - bulelt 3
