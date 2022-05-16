@@ -1,16 +1,17 @@
-__Welcome!__ This page gives an __overview of my most recent and relevant projects__. Since I am in the middle of a data science bootcamp, this is still highly __work in progress__. I will further clean up the code and add more projects over the upcoming weeks/months.
+__Welcome!__ This page gives an overview of my __most recent and relevant projects__. Since I am in the middle of a __data science bootcamp__, this is still highly __work in progress__. I will further clean up the code and add more projects over the upcoming weeks/months.
 
 
-## [1: Classification of different types of (toy) dinosaurs using CNNs](https://github.com/piwi3/cnns_for_dino_detection)
-- Saved 120 images of 4 different toy dinosaurs (plus 120 images for empty & hand_only class) using a webcam and this [script](https://github.com/bonartm/imageclassifier)
-- Built i) CNN from scratch using TensorFlow and Keras (optimzed the model using SciKeras to do grid search) and built ii) a CNN based on the mobilenet CNN using transfer learning approach (further optimized through image augmentation)  
-- Customized the [script](https://github.com/bonartm/imageclassifier) used for image generation (based on OpenCV) to live predict dinosaurs held into the camera
+## [1: Classification of (toy) dinosaurs using convolutional neural networks (CNNs)](https://github.com/piwi3/cnns_for_dino_detection)
+- Generated __120 images__ of __4 different toy dinosaurs__ (plus 120 images for 'empty' & 'hand only' class) using a webcam and this [script](https://github.com/bonartm/imageclassifier)
+- Built __i) a CNN from scratch__ using __TensorFlow and Keras__ (optimzed the model using __SciKeras__ to do grid search) and built __ii) a CNN based on the mobilenet CNN__ using __transfer learning__ approach (further optimized generalization through image augmentation)  
+- Customized the [script](https://github.com/bonartm/imageclassifier) used for image generation (based on __OpenCV__) to __live predict toy dinosaurs__ held into the camera
 
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/scrsht_%20prediction_engine.png?raw=true" width="450"><br/>
 _Figure 1: Classification of dinosaurs using a webcam, Keras/TensorFlow and OpenCV_
 
 
 ## [2: Simulation of customer movement in a supermarket with pygame & Markov chains](https://github.com/piwi3/timeseries_analysis_temperature)
-- Used __data of customer movement__ in a supermarket (timestamp, customer_no, lcoation) to derive a __transition matrix__, with probabilities for customers moving from one location to another (i.e. dairy, spices, fruit, drinks).
+- Used __data of customer movement__ in a supermarket ('timestamp', 'customer_no', 'location') to derive a __transition matrix__, with probabilities for customers moving from one location to another (i.e. dairy, spices, fruit, drinks).
 - Project had __strong OOP focus__, e.g., defined __customer and supermarket classes__ to conduct a (first) __"Markov Chain Monte Carlo"__-simulation (MCMC)
 - Leveraged __pygame to visualize MCMC__ (inspired by this [great tutorial](https://www.youtube.com/watch?v=JtiK0DOeI4A&t=1512s)) - for this, further detailed the customer and supermarket classes (using class inheritance) and __added spot and grid classes to control visual elements in pygame__
 
