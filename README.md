@@ -28,7 +28,7 @@ _Figure 2: A few seconds of the built supermarket simulation/visualization in py
 _Figure 3: Frontend of my twitter sentiment app (created with streamlit)_
 
 
-## [4: Prediction of survival on the titanic using ML classification models](https://github.com/piwi3/classification_with_titanic_data)
+## [4: Prediction of survival on the Titanic using ML classification models](https://github.com/piwi3/classification_with_titanic_data)
 - Used __Titanic data set from Kaggle__ to  built and compare a __variety of ML classifiers__ with __sckit-learn__ (logistic regression, decision trees, support vector machine, random forest, voting classifier), in order to predict survival of passengers on the titanic
 - Project comprised __all phases of ML work flow__ (e.g., train-test-splitting the data, data exploration, feature engineering (incl. pipelines), optimization of hyperparameters, evaluation via cross-validation) 
 - Best classifier (voting classifier) is further tuned by __optimizing predictions thresholds__  
