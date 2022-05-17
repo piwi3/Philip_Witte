@@ -65,7 +65,7 @@ _Figure 6: In-sample prediction of temperature for Berlin via manually built mod
 _Figure 7: Tongue shaped word cloud of 100 most used words in lyrics for 'The Rolling Stones'_
 
 
-## [8: Metabase dashboard from a postgreSQL DB using AWS (RDS/EC2)](https://github.com/piwi3/psql_and_dashboard_aws)
+## [8: Metabase dashboard from a PostgreSQL DB using AWS (RDS/EC2)](https://github.com/piwi3/psql_and_dashboard_aws)
 - Fort this project, I utilized the __Northwind Database__, a sample database shipped along with Microsoft Access (data is about 'Northwind Traders', a fictional company and its regarding sales transactions) 
 - Loaded the data into a __PostgreSQL DB__ using __AWS RDS__ and installed Metabase using __AWS EC2__; connected both to enable __data pipeline__
 - __Querried the PostgreSQL__ DB to implement several __charts/dashboars visualizing the sales data__ (e.g. for orders, customers, including geo maps using fortium and geopy)
