@@ -71,8 +71,7 @@ _Figure 7: Tongue shaped word cloud of 100 most used words in lyrics for 'The Ro
 - __Querried the PostgreSQL__ DB to implement several __charts/dashboars visualizing the sales data__ (e.g. for orders, customers, including geo maps using folium and geopy)
 
 _Note:_
-- _Since AWS is a paid service, I deleted the RDS instance; hence, the dashboard is offline. I am thinking to bring it back online using docker and the (still active) EC2 instance_
-- _To run the code, a credentials.py file with personal AWS authentiffication keys needs to be added in the 'code'-folder_
+- _Since AWS is a paid service, I deleted the RDS instance; hence, the dashboard is offline (and for some reason I forgot to take a screenshot...). I am thinking to bring it back online using docker and the (still active) EC2 instance_
 
 
 ## [9: Visualization of gapminder data through GIFs](https://github.com/piwi3/gap_minder_gif)
