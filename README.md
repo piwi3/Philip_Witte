@@ -46,29 +46,33 @@ _Figure 4: Main KPIs for implemented ML classifiers_
 _Figure 5: Predicted vs. true target values for random forest model (separate models for registered vs. casual customers)_
 
 
-## [6: Natural language processing of webscraped lyrics](https://github.com/piwi3/nlp_for_lyrics)
+## [6: Time series analysis of temperature data](https://github.com/piwi3/timeseries_analysis_temperature)
+- Developed a __short-term temperature forecast__ utilizing the temperature data provided [here](www.ecad.eu)
+- __Cleaned the data__ and performed a step-by-step time series analysis of the data, starting with a __base model__ using __linear regression to model trend and seasonality__
+- Tested the __remainder for stationarity__, then built and evaluated __3 different AR models__, i.e. i) self-built __linear regression__ model, ii) __AR model__ iii) __ARIMA__ model
+
+<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/prediction_2019.png?raw=true" width="450"><br/>
+_Figure 6: In-sample prediction of temperature for Berlin via manually built model using linear regression for 2019_
+
+
+## [7: Natural language processing of webscraped lyrics](https://github.com/piwi3/nlp_for_lyrics)
 - Built a __text classification model__ on __song lyrics__ with the goal to __predict an artist__ from a piece of text
 - To train the model, __web scraped lyrics__ from 5+ artists from this [page](www.lyrics.com) using __Beautiful Soup__ and __regular expressions__
 - Utilized __bag of words__ (and vectorization) as well as __Naive Bayes__ to implement a __classification model__ for the described task  
 - As an __add-on__ (just for fun): wrote a simple __command line interface__ for downloading lyrics of any artist and creating a __fancy word cloud__
 
 <img src="https://github.com/piwi3/Philip_Witte/blob/main/images/the_rolling_stones_wrdcld.png?raw=true" width="500"><br/>
-_Figure 6: Tongue shaped word cloud of 100 most used words in lyrics for 'The Rolling Stones'_
+_Figure 7: Tongue shaped word cloud of 100 most used words in lyrics for 'The Rolling Stones'_
 
 
-## [7: Metabase dashboard from a postgreSQL DB using AWS (RDS/EC2)](https://github.com/piwi3/psql_and_dashboard_aws)
-- bullet 1
-- bullet 2
-- bulelt 3
+## [8: Metabase dashboard from a postgreSQL DB using AWS (RDS/EC2)](https://github.com/piwi3/psql_and_dashboard_aws)
+- Fort this project, I utilized the __Northwind Database__, a sample database shipped along with Microsoft Access (data is about 'Northwind Traders', a fictional company and its regarding sales transactions) 
+- Loaded the data into a __PostgreSQL DB__ using __AWS RDS__ and installed Metabase using __AWS EC2__; connected both to enable __data pipeline__
+- __Querried the PostgreSQL__ DB to implement several __charts/dashboars visualizing the sales data__ (e.g. for orders, customers, including geo maps using fortium and geopy)
 
-
-## [8: Time series analysis of temperature data](https://github.com/piwi3/timeseries_analysis_temperature)
-- Developed a __short-term temperature forecast__ utilizing the temperature data provided [here](www.ecad.eu)
-- __Cleaned the data__ and performed a step-by-step time series analysis of the data, starting with a __base model__ using __linear regression to model trend and seasonality__
-- Tested the __remainder for stationarity__, then built and evaluated __3 different AR models__, i.e. i) self-built __linear regression__ model, ii) __AR model__ iii) __ARIMA__ model
-
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/prediction_2019.png?raw=true" width="450"><br/>
-_Figure 8: In-sample prediction of temperature for Berlin via manually built model using linear regression for 2019_
+_Note:_
+- _Since AWS is a paid service, I deleted the RDS instance; hence, the dashboard is offline. I am thinking to bring it back online using docker and the (still active) EC2 instance_
+- _To run the code, a credentials.py file with personal AWS authentiffication keys needs to be added in the 'code'-folder_
 
 
 ## [9: Visualization of gapminder data through GIFs](https://github.com/piwi3/gap_minder_gif)
